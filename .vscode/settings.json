@@ -2,5 +2,4 @@
   "pasteImage.path": "${currentFileDir}/assets/img",
   "pasteImage.forceUnixStyleSeparator": true,
   "pasteImage.prefix": "",
-  "liveServer.settings.port": 5501
 }
