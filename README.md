@@ -6,8 +6,8 @@
 
 ## ★系列笔记
 
-- [全面攻克JS底层的三座大山](https://ppambler.github.io/zf-fe/02-JS/)
-- [DOM探索之基础详解篇](./02/README.md)
+- [全面攻克 JS 底层的三座大山](https://ppambler.github.io/zf-fe/02-JS/)
+- [DOM 探索之基础详解篇](./02/README.md)
 
 ## ★第一部分：JavaScript 编程语言
 
@@ -18,5 +18,3 @@
 ## ★实战
 
 - [DOM 封装](./01/README.md)
-
-
