@@ -75,3 +75,7 @@ a {
     border-radius: .375em;
     margin: auto 3px;
 }
+
+mark {
+  background-color: #ffeb3b8f;
+}
