@@ -11,3 +11,8 @@
 ➹：[XML - Wikipedia](https://en.wikipedia.org/wiki/XML)
 
 ➹：[【HTML/XML 11】XML和HTML的混合使用_san.hang的博客-CSDN博客](https://blog.csdn.net/weixin_30245867/article/details/95930743)
+
+➹：[Node.nodeType - Web APIs - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Node/nodeType)
+
+
+
