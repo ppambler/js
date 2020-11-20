@@ -7,6 +7,7 @@
 ## ★资料
 
 - [深入浅出 DOM 基础——《DOM 探索之基础详解篇》学习笔记 · Issue #9 · jawil/blog](https://github.com/jawil/blog/issues/9)
+- [DOM探索之基础详解篇 - 极客教程](https://www.geekjc.com/ebook/detail/5bb9b9f3e132926e1b268ec0/1538898088224)
 
 ## ★简介
 
@@ -22,3 +23,4 @@
 
 - [第一章 DOM 热身案例——滑动门特效](./01.md)
 - [第二章 认识 DOM](./02.md)
+- [第三章 DOM Ready](./03.md)
