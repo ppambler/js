@@ -9,3 +9,5 @@
 ➹：[页面生命周期：DOMContentLoaded，load，beforeunload，unload](https://zh.javascript.info/onload-ondomcontentloaded)
 
 ➹：[译-页面生命周期：DOMContentLoaded, load, beforeunload, unload解析 · Issue #3 · fi3ework/blog](https://github.com/fi3ework/blog/issues/3)
+
+➹：[DOM Ready 详解 - ziqiu.zhang - 博客园](https://www.cnblogs.com/zhangziqiu/archive/2011/06/27/domready.html)
