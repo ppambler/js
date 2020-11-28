@@ -10,6 +10,10 @@
 - API：库暴露出来的函数或属性
 - 框架：当库变得很强大、并且需要学习才能看懂的叫做框架（Vue、React）
 
+## ★教程
+
+- [DOM 封装-对象风格 · 语雀](https://www.yuque.com/woozyzzz/ybz8i1/yo9rg6#lPVxQ)
+
 ## ★目录
 
 - [01-DOM 封装-对象风格](./01.md)
