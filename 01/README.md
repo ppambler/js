@@ -10,9 +10,14 @@
 - API：库暴露出来的函数或属性
 - 框架：当库变得很强大、并且需要学习才能看懂的叫做框架（Vue、React）
 
+jQuery 的基本设计思想和主要用法，就是"**选择某个网页元素，然后对其进行某种操作**"。这是它区别于其他 Javascript 库的根本特点
+
+> 指定某个节点，对其搞事情！
+
 ## ★教程
 
 - [DOM 封装-对象风格 · 语雀](https://www.yuque.com/woozyzzz/ybz8i1/yo9rg6#lPVxQ)
+- [DOM 封装-链式风格 · 语雀](https://www.yuque.com/woozyzzz/ybz8i1/dh10q6#rcgUU)
 
 ## ★目录
 
