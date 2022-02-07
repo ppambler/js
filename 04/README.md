@@ -16,3 +16,4 @@ The hardest part is knowing how to break large problems down into smaller proble
 ## ★目录
 
 - [01-JavaScript 及其生态系统](./01.md)
+- [02-Js basics](./02.md)
